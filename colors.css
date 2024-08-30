@@ -1,0 +1,43 @@
+body{
+color:red;
+  background-color:yellow;
+  margin: 20px;
+  font-family: "New Amsterdam", sans-serif;
+
+
+}
+
+header {
+    border:solid 7px purple;
+    padding: 50px;
+    font-size: 50px;
+
+
+}
+.chamada{
+    background-color: purple;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    justify-content: center;
+
+
+}
+
+.chamada-texto{
+margin-right: 5%;
+
+}
+    h1{
+        font-size: 75px;
+    }
+    .categoria-videos{
+        display: flex;
+        overflow-x: auto;
+        gap: 10px;
+
+
+    }
+    .categoria {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
